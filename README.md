@@ -1,56 +1,32 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--  PROFILE README v4.0 — The Glow-Up Edition                    -->
-<!--  Paste into: github.com/pankhuriVarshney/pankhuriVarshney       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<!-- Animated Header -->
+<!-- Waving Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:8B5CF6,100:0d1117&height=120&section=header&text=&animation=fadeIn"/>
 
-<pre>
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║     ██▓███   ▄▄▄       ██▓     ██▓  ██████  ██░ ██ ▓█████   ║
-║    ▓██░  ██▒▒████▄    ▓██▒    ▓██▒▒██    ▒ ▓██░ ██▒▓█   ▀   ║
-║    ▓██░ ██▓▒▒██  ▀█▄  ▒██░    ▒██▒░ ▓██▄   ▒██▀▀██░▒███     ║
-║    ▒██▄█▓▒ ▒░██▄▄▄▄██ ▒██░    ░██░  ▒   ██▒░▓█ ░██ ▒▓█  ▄   ║
-║    ▒██▒ ░  ░ ▓█   ▓██▒░██████▒░██░▒██████▒▒░▓█▒░██▓░▒████▒  ║
-║    ▒▓▒░ ░  ░ ▒▒   ▓▒█░░ ▒░▓  ░░▓  ▒ ▒▓▒ ▒ ░ ▒ ░░▒░▒░░ ▒░ ░  ║
-║    ░▒ ░       ▒   ▒▒ ░░ ░ ▒  ░ ▒ ░░ ░▒  ░ ░ ▒ ░▒░ ░ ░ ░  ░  ║
-║    ░░         ░   ▒     ░ ░    ▒ ░░  ░  ░   ░  ░░ ░   ░     ║
-║                   ░  ░    ░  ░ ░        ░   ░  ░  ░   ░  ░  ║
-║                                                               ║
-║              RED TEAM ENGINEER  ·  YOUR FRIENDLY              ║
-║                  NEIGHBORHOOD HACKER  🕷️                      ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-</pre>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=600&color=8B5CF6&center=true&vCenter=true&multiline=false&width=800&lines=Red+Team+Engineer;Penetration+Tester;Security+Researcher;Cybersecurity+%26+AI+Enthusiast;Your+Friendly+Neighborhood+Hacker+🕷️" alt="Typing SVG"/>
-
 <br/>
 
-<!-- Badges Row 1 -->
-[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-pvsec.vercel.app-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://pvsec.vercel.app)
+<!-- Banner Image -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2800&pause=600&color=8B5CF6&center=true&vCenter=true&multiline=false&width=800&lines=Red+Team+Engineer;Penetration+Tester;Security+Researcher;Cybersecurity+%26+AI+Enthusiast;Your+Friendly+Neighborhood+Hacker+🕷️" alt="Typing SVG"/>
+
+<br/><br/>
+
+<!-- Status Badge -->
 [![Status](https://img.shields.io/badge/🔮_STATUS-Available_for_Red_Team_Roles-8B5CF6?style=for-the-badge&labelColor=0d1117)](mailto:pankhu.var@gmail.com)
-[![HTB](https://img.shields.io/badge/🟩_HACKTHEBOX-@pankhuriVarshney-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0d1117)](https://profile.hackthebox.com/profile/019c6b1d-c534-70d4-b15c-2f8b3c550ccd)
+
+<br/><br/>
+
+<!-- Social Badges Row -->
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-pvsec.vercel.app-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://pvsec.vercel.app)
+[![HackTheBox](https://img.shields.io/badge/🟩_HackTheBox-@pankhuriVarshney-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0d1117)](https://profile.hackthebox.com/profile/019c6b1d-c534-70d4-b15c-2f8b3c550ccd)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/pankhurivarshney)
+[![Email](https://img.shields.io/badge/📧_Email-pankhu.var@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:pankhu.var@gmail.com)
 
 <br/>
 
-<!-- Badges Row 2 -->
+<!-- Cert Badges Row -->
 [![eJPT](https://img.shields.io/badge/✅_eJPT-Certified-22C55E?style=for-the-badge&labelColor=0d1117)](https://security.ine.com/certifications/ejpt-certification/)
 [![CPTS](https://img.shields.io/badge/🔄_CPTS-In_Progress-A855F7?style=for-the-badge&labelColor=0d1117)](https://academy.hackthebox.com/paths/job-role-penetration-tester)
 [![IEEE](https://img.shields.io/badge/📄_IEEE-ADICS_2024_Published-8B5CF6?style=for-the-badge&logo=ieee&logoColor=white&labelColor=0d1117)](https://doi.org/10.1109/ADICS58448.2024.10533597)
-[![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/pankhurivarshney)
-
-</div>
-
----
-
-<div align="center">
-
-### 🎬 "I love the kind of woman that can kick my ass." — *Spike Spiegel, Cowboy Bebop*
 
 </div>
 
@@ -58,22 +34,18 @@
 
 ## 🧬 About Me
 
-> *"A lesson without pain is meaningless. That's because no one can gain without sacrificing something. But by enduring that pain and overcoming it, he shall obtain a powerful, unmatched heart."* — **Edward Elric, FMA**
+> *"A lesson without pain is meaningless. That's because no one can gain without sacrificing something. But by enduring that pain and overcoming it, he shall obtain a powerful, unmatched heart."*
+> — **Edward Elric, Fullmetal Alchemist**
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  Name        : Pankhuri Varshney                                │
-│  Role        : Red Team Intern & Security Engineer               │
-│  Company     : Deepcytes Cyber Labs (UK)                        │
-│  Education   : B.Tech CSE @ SIT Pune | GPA: 8.97                │
-│  Focus       : Adversary Simulation · Deception Tech · VAPT     │
-│  Certs       : eJPT ✓ | CPTS (ongoing) | eWPT (ongoing)          │
-│  Research    : IEEE Published @ ADICS 2024                      │
-│  Status      : 🔮 OPEN TO RED TEAM / OFFENSIVE SECURITY ROLES    │
-└─────────────────────────────────────────────────────────────────┘
-```
+Hey there! I'm **Pankhuri Varshney** — a Red Team Intern & Security Engineer at **Deepcytes Cyber Labs (UK)**, currently pursuing my B.Tech in CSE at **Symbiosis Institute of Technology, Pune** (GPA: 8.97).
 
-I don't just find vulnerabilities — **I build systems that make attackers reveal themselves.** Currently engineering **MAYA**, an autonomous deception platform that lures adversaries, maps their TTPs in real-time, and feeds intelligence to SIEM pipelines.
+I don't just find vulnerabilities — **I build systems that make attackers reveal themselves.** Currently engineering **MAYA**, an autonomous deception technology platform that lures adversaries, maps their TTPs in real-time, and feeds intelligence to SIEM pipelines.
+
+- 🔭 **Currently working on:** MAYA Deception Tech, Red Team Toolkit, CPTS Certification
+- 🌱 **Currently learning:** Advanced Adversary Simulation, Rust Systems Programming, Cloud Red Teaming
+- 👯 **Looking to collaborate on:** Open-source security tools, CTF challenges, research papers
+- 💬 **Ask me about:** Honeynets, VAPT, Malware Analysis, OSINT, Quantum Cryptography
+- ⚡ **Fun fact:** I placed 3rd at a national-level CTF at IIT Jammu — *"I'm the one who knocks."* 🧪
 
 > *"The best defense is a thorough understanding of the offense."*
 
@@ -83,16 +55,37 @@ I don't just find vulnerabilities — **I build systems that make attackers reve
 
 <div align="center">
 
-| Project | Description | Tech Stack | Status |
-|:---|:---|:---|:---:|
-| [**🍯 MAYA Deception Tech**](https://github.com/pankhuriVarshney/Maya_Deception_Tech) | Autonomous honeynet that lures attackers, captures TTPs, and maps adversary behavior in real-time with SIEM integration | Rust · Go · Docker · Kafka · SIEM | 🟡 Active |
-| [**🔍 TraceProbe**](https://github.com/pankhuriVarshney/TraceProbe) | IPDR log analyzer — geo-maps threat IPs, visualizes attack sessions, DNS resolution & IOC extraction | Python · Kafka · Elasticsearch · Kibana | ✅ Production |
-| [**⚔️ Red Team Toolkit**](https://github.com/pankhuriVarshney/Red-Team-Toolkit) | Modular offensive simulation framework — multi-platform payloads, privesc automation, post-exploitation modules | Python · Bash · Metasploit | 🟡 Active |
-| [**🧠 AI Malware Detector**](https://github.com/pankhuriVarshney/Malware-Detection-System) | Static + dynamic analysis pipeline with sandboxing, memory forensics, and LLaMA 3 classification | Java · LLaMA 3 · Syscall Tracing | ✅ Complete |
-| [**💳 Fraud Detection System**](https://github.com/pankhuriVarshney/Fraud-Detection-System) | Real-time behavioral anomaly detection on Zero Trust architecture with MFA enforcement | Transformers · Zero Trust · MFA | ✅ Complete |
-| [**💀 Exploits Database**](https://github.com/pankhuriVarshney/Exploits-Database) | Structured CVE repository with PoC integration, severity scoring, and cross-platform indexing | Python · PostgreSQL · FastAPI | 🟡 Active |
+<a href="https://github.com/pankhuriVarshney/Maya_Deception_Tech">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=pankhuriVarshney&repo=Maya_Deception_Tech&title_color=8B5CF6&text_color=c9d1d9&icon_color=8B5CF6&bg_color=0d1117&hide_border=true" />
+</a>
+
+<a href="https://github.com/pankhuriVarshney/TraceProbe">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=pankhuriVarshney&repo=TraceProbe&title_color=8B5CF6&text_color=c9d1d9&icon_color=22C55E&bg_color=0d1117&hide_border=true" />
+</a>
+
+<br/>
+
+<a href="https://github.com/pankhuriVarshney/Red-Team-Toolkit">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=pankhuriVarshney&repo=Red-Team-Toolkit&title_color=8B5CF6&text_color=c9d1d9&icon_color=8B5CF6&bg_color=0d1117&hide_border=true" />
+</a>
+
+<a href="https://github.com/pankhuriVarshney/Malware-Detection-System">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=pankhuriVarshney&repo=Malware-Detection-System&title_color=8B5CF6&text_color=c9d1d9&icon_color=22C55E&bg_color=0d1117&hide_border=true" />
+</a>
+
+<br/>
+
+<a href="https://github.com/pankhuriVarshney/Fraud-Detection-System">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=pankhuriVarshney&repo=Fraud-Detection-System&title_color=8B5CF6&text_color=c9d1d9&icon_color=22C55E&bg_color=0d1117&hide_border=true" />
+</a>
+
+<a href="https://github.com/pankhuriVarshney/Exploits-Database">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=pankhuriVarshney&repo=Exploits-Database&title_color=8B5CF6&text_color=c9d1d9&icon_color=8B5CF6&bg_color=0d1117&hide_border=true" />
+</a>
 
 </div>
+
+<br/>
 
 <details>
 <summary><b>📂 More Repositories (40+ total)</b></summary>
@@ -114,17 +107,17 @@ I don't just find vulnerabilities — **I build systems that make attackers reve
 
 > *"I'm the one who knocks."* — **Walter White, Breaking Bad**
 
-```yaml
-[2026] Identity Shield CTF (CTF7)              → 🏆 6th Place — National
-[2025] Operation Cipher Shadows CTF (IIT Jammu) → 🥉 3rd Place — National Level
-[2025] National CyberShield Hackathon           → ⚔️ Participant — Rank 500/3500
-[2023] Digital Forensics Hackathon (CSI)       → 🥈 2nd Place
-[2023] Blockchain Hackathon (India Blockchain)  → 🥈 2nd Place
-```
+| Year | Competition | Result |
+|:---|:---|:---:|
+| 2026 | Identity Shield CTF (CTF7) | 🏆 6th Place — National |
+| 2025 | Operation Cipher Shadows CTF (IIT Jammu) | 🥉 3rd Place — National Level |
+| 2025 | National CyberShield Hackathon | ⚔️ Rank 500/3500 |
+| 2023 | Digital Forensics Hackathon (CSI) | 🥈 2nd Place |
+| 2023 | Blockchain Hackathon (India Blockchain) | 🥈 2nd Place |
 
 📝 **[Read detailed CTF writeups →](https://github.com/pankhuriVarshney/CTF-Writeups)**
 
-*Step-by-step breakdowns of exploitation chains, from initial access to privilege escalation.*
+*Step-by-step breakdowns of exploitation chains, from initial access to privilege escalation. Every writeup includes tool usage, methodology, and lessons learned.*
 
 ---
 
@@ -190,6 +183,26 @@ I don't just find vulnerabilities — **I build systems that make attackers reve
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/pankhuriVarshney">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pankhuriVarshney&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9"/>
+</a>
+
+<a href="https://github.com/pankhuriVarshney">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankhuriVarshney&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9"/>
+</a>
+
+<br/><br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=pankhuriVarshney&theme=midnight-purple&hide_border=true&background=0d1117&stroke=8B5CF6&ring=8B5CF6&fire=A855F7&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=888888)](https://git.io/streak-stats)
+
+</div>
+
+---
+
 ## 📜 Certifications
 
 ```
@@ -202,24 +215,40 @@ I don't just find vulnerabilities — **I build systems that make attackers reve
 
 ---
 
-## 📡 Contact
+## 🎬 Currently Vibing To
 
-> *"I'm the captain now."* — **Captain Phillips meme, but make it cybersecurity**
+> *"I love the kind of woman that can kick my ass."* — **Spike Spiegel, Cowboy Bebop**
 
 <div align="center">
 
-```
-64 bytes from pankhuri: icmp_seq=1 ttl=64 time=<1ms
-```
+*Saving people, hunting things, the family business.* — **Supernatural**
+
+*Cool cool cool cool cool.* — **Jake Peralta, Brooklyn Nine-Nine**
+
+*I'm the captain now.* — **Captain Phillips (meme edition)**
+
+*With great power comes great responsibility.* — **Uncle Ben, Spider-Man**
+
+*What makes you different is what makes you Spider-Man.* — **Spider-Verse**
+
+</div>
+
+---
+
+## 📡 Let's Connect
+
+<div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐_pvsec.vercel.app-Visit_Portfolio-8B5CF6?style=for-the-badge&labelColor=0d1117)](https://pvsec.vercel.app)
 [![Email](https://img.shields.io/badge/📧_pankhu.var@gmail.com-Hire_Me-22C55E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:pankhu.var@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/pankhurivarshney)
 [![HackTheBox](https://img.shields.io/badge/🟩_HackTheBox-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0d1117)](https://profile.hackthebox.com/profile/019c6b1d-c534-70d4-b15c-2f8b3c550ccd)
 
-<br/>
+<br/><br/>
 
 *"The best defense is a thorough understanding of the offense."*
+
+<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:8B5CF6,100:0d1117&height=80&section=footer"/>
 
